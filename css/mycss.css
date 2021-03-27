@@ -1,0 +1,20 @@
+body {
+    background-image: url("img/lucid_dreams_backround.jpg");
+    background-repeat: no-repeat;
+    height: 720px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+
+    position: relative;
+  }
+  button {
+      position: absolute;
+      top: 20%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: blueviolet;
+      color: white;
+  }
